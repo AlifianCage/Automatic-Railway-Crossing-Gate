@@ -8,11 +8,11 @@ While the train is passing through the crossing area, the gate remains closed to
 This logic ensures safe and automated railway crossing control without manual intervention.
 
 🔌 Inputs & Outputs
-Inputs:
+> Inputs:
 - Train Detection Sensor (Entry)
 - Train Detection Sensor (Exit)
 - Emergency Stop Button
-Outputs:
+> Outputs:
 - Gate Motor (Open/Close)
 - Warning Lamp / Signal Light
 - Buzzer / Alarm
