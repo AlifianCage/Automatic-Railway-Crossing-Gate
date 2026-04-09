@@ -13,11 +13,11 @@ Inputs:
 - Train Detection Sensor (Exit)
 - Emergency Stop Button
 Outputs:
--Gate Motor (Open/Close)
--Warning Lamp / Signal Light
--Buzzer / Alarm
+- Gate Motor (Open/Close)
+- Warning Lamp / Signal Light
+- Buzzer / Alarm
 
 🖥️ Tools & Technologies
-PLC Programming (Ladder Diagram)
-Omron CX Programmer V9.7 / CX Designer
-Industrial Automation Logic Design
+- PLC Programming (Ladder Diagram)
+- Omron CX Programmer V9.7 / CX Designer
+- Industrial Automation Logic Design
